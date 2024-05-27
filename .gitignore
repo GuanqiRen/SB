@@ -1,0 +1,10 @@
+ObjectDetection/yolov9e-seg.pt
+ObjectDetection/data/
+ObjectDetection/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+ObjectDetection/__pycache__/
